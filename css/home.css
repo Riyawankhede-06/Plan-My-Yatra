@@ -23,10 +23,12 @@
    padding: 5px;
 }
 .website-name{
+    gap: 30px;
     padding: 0px;
     
+    
 }
-.nav-menu{
+.nav-container{
     display: flex;
     flex-direction: row;
     gap: 30px;
